@@ -1,0 +1,61 @@
+body {
+  font-family: sans-serif;
+}
+div {
+  background-color: #aac7b6;
+  justify-content: center;
+  height: 480px;
+  width: 380px;
+}
+.main {
+  display: block;
+  margin: 0 auto;
+}
+div .title {
+  display: block;
+  font-size: 72px;
+  text-align: center;
+  height: 90px;
+  display: block;
+  margin: 0 auto;
+  width: 340px;
+}
+div .numberDate {
+  display: block;
+  font-size: 96px;
+  text-align: center;
+  height: 90px;
+  display: block;
+  margin: 20px auto;
+  width: 340px;
+}
+div .month {
+  font-size: 44px;
+  text-align: center;
+  color: #000000;
+  height: 54px;
+  display: block;
+  margin: 40px auto;
+  width: 340px;
+}
+div .day {
+  font-size: 40px;
+  text-align: center;
+  color: #ffffff;
+  height: 52px;
+  display: block;
+  margin: 20px auto;
+  width: 340px;
+}
+button {
+  display: block;
+  color: white;
+  margin: 40px auto;
+  height: 36px;
+  background-color: #1b61d1;
+  border: none;
+  border-radius: 8px;
+  height: 36px;
+  font-size: 14px;
+  font-weight: 500px;
+}
